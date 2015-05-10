@@ -1,11 +1,6 @@
-Start: Thu, 07 May 2015 2:00:00 -0700
-Tasks: finished up login.php it was very hard
-End: Thu, 06 May 2015 22:00:00 -0700Start: Wed, 06 May 2015 18:00:00 -0700
-Tasks: wrapping up loopback and starting login.php
-End: Wed, 06 May 2015 22:00:00 -0700
-Start: Tue, 05 May 2015 18:00:00 -0700
-Tasks: started on loopback
-End: Tue, 05 May 2015 22:00:00 -0700
-Start: Mon, 04 May 2015 18:00:00 -0700
-Tasks: Started the project, finished multtable
-End: Mon, 04 May 2015 22:30:00 -0700
+Start: Sat, 09 May 2015 07:54:00 -0700
+Tasks: Working on Create Tables
+End: 
+Start: Sat, 09 May 2015 23:48:00 -0700
+Tasks: Started the assignment
+End: Sun, 10 May 2015 00:15:00 -0700
