@@ -1,6 +1,27 @@
-Start: Sat, 09 May 2015 07:54:00 -0700
+Start: Sat, 16 May 2015 10:30:00 -0700
+Tasks: Working on deleteAll
+End: Sat, 16 May 2015 18:20:00 -0700
+Start: Sat, 16 May 2015 15:00:00 -0700
+Tasks: Working on deleteAll
+End: Sat, 16 May 2015 17:00:00 -0700
+Start: Thu, 14 May 2015 20:00:00 -0700
+Tasks: Working on deleteAll
+End: Thu, 14 May 2015 21:00:00 -0700
+Start: Tue, 12 May 2015 17:00:00 -0700
+Tasks: Working on addMovie
+End: Tue, 12 May 2015 10:00:00 -0700
+Start: Mon, 11 May 2015 07:54:00 -0700
+Tasks: Working on addMovie
+End: Mon, 11 May 2015 11:00:00 -0700
+Start: Sun, 10 May 2015 20:00:00 -0700
+Tasks: Working on addMovie
+End: Sun, 10 May 2015 22:00:00 -0700
+Start: Sun, 10 May 2015 14:00:00 -0700
 Tasks: Working on Create Tables
-End: 
+End: Sun, 10 May 2015 16:00:00 -0700
+Start: Sun, 10 May 2015 07:54:00 -0700
+Tasks: Working on Create Tables
+End: Sun, 10 May 2015 11:00:00 -0700
 Start: Sat, 09 May 2015 23:48:00 -0700
 Tasks: Started the assignment
 End: Sun, 10 May 2015 00:15:00 -0700
